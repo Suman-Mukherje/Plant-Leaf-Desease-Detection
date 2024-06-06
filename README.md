@@ -4,7 +4,7 @@ This project uses a Convolutional Neural Network (CNN) to predict diseases in pl
 
 ## Dataset
 
-The dataset used for this project can be found at [Data for: Identification of Plant Leaf Diseases Using a 9-layer Deep Convolutional Neural Network]([https://data.mendeley.com/datasets/tywbtsjrjv/1]).
+The dataset used for this project can be found at [Data for: Identification of Plant Leaf Diseases Using a 9-layer Deep Convolutional Neural Network](https://data.mendeley.com/datasets/tywbtsjrjv/1).
 
 ## Installation
 
